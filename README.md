@@ -1,2 +1,2 @@
 # EpochViewer
- MATLAB Application for Visualizing Epoched Signals
+MATLAB application for visualizing epoched multi-channel data
